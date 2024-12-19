@@ -1,6 +1,6 @@
 # KeyStore Program
 
-An open-source, basic functional KeyStore program written in Java. This repository includes tools for signing and authenticating files or data using cryptographic methods and managing Java JAR file signing via a graphical user interface.
+An open-source, basic functional KeyStore program written in Java. This repository includes tools for signing and authenticating files or data using cryptographic methods and managing Java JAR file signing via GUI.
 
 ## Features
 
@@ -26,7 +26,7 @@ An open-source, basic functional KeyStore program written in Java. This reposito
 ## Installation
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/keystore.git
+   git clone https://github.com/valkarinc/keystore.git
    cd keystore
    ```
 2. Compile the Java files:
