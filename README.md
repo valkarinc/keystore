@@ -1,4 +1,4 @@
-# KeyStore Program
+# KeyStore App
 
 An open-source, basic functional KeyStore program written in Java. This repository includes tools for signing and authenticating files or data using cryptographic methods and managing Java JAR file signing via GUI.
 
